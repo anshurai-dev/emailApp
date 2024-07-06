@@ -2,9 +2,9 @@
 
 ## Email Application 
 
-###### Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hire.
+#### Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hire.
 
-#### This application Should do the following:
+##### This application Should do the following:
 1. Generate an email with the following Syntex: firstname.lastname@department.company.com
 2. Determine the department (salse, development, accounting), if none leave blank
 3. Generate a random String password
