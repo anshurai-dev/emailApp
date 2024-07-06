@@ -1,6 +1,6 @@
-Project EmailApp
+## heading level 3 Project EmailApp
 
-Email Application 
+### heading level 1 Email Application 
 
 Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hire.
 
